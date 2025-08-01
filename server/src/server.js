@@ -21,7 +21,7 @@ app.use(
 app.use(express.json());
 app.use(clerkMiddleware());
 // uncomment
-// app.use(arcjetMiddleware);
+app.use(arcjetMiddleware);
 
 app.get("/", (req, res) => res.send("Hello from server"));
 
