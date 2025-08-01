@@ -1,4 +1,4 @@
-![8](https://github.com/user-attachments/assets/84f5066b-ea07-49f6-88e1-b807bd260e19)A X (Twitter) clone mobile application created using React Native (Expo).
+A X (Twitter) clone mobile application created using React Native (Expo).
 
 ✅ Runs on both Android & iOS
 ✅ Arcjet for rate limiting and server/db protection
